@@ -12,11 +12,11 @@ A simple QR code generator built with JavaScript, HTML, and CSS.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/qrcode-generator.git
+    git clone https://github.com/MaykaS/QR-Code-Generator.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd qrcode-generator
+    cd QR-Code-Generator
     ```
 3. **Open the `index.html` file in your browser:**
     ```bash
@@ -31,6 +31,3 @@ A simple QR code generator built with JavaScript, HTML, and CSS.
 ### Clearing the QR Code
 Click the "Clear" button to clear the input field and the generated QR code.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
